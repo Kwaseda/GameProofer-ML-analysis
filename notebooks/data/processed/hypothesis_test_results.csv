@@ -1,0 +1,9 @@
+hypothesis,test,stat,p_value,effect_size,bh_reject_0.05
+H1 Speed ~ Rim Width correlation,Pearson r,0.9644,0.0,r=0.964,True
+H2 rim_ratio vs SPEED,Pearson r,0.9584,0.0,r=0.958,True
+H2 rim_ratio vs RIM WIDTH,Pearson r,0.984,0.0,r=0.984,True
+H3 SPEED differs by DISC TYPE,One-way ANOVA,4296.1302,0.0,eta^2=0.917,True
+H3 GLIDE differs by DISC TYPE,One-way ANOVA,197.0264,1.96e-103,eta^2=0.335,True
+H4 BEAD associated with DISC TYPE,Chi-square,177.7227,2.737e-38,dof=3,True
+H3 FADE differs by DISC TYPE,One-way ANOVA,62.3413,2.143e-37,eta^2=0.138,True
+H3 TURN differs by DISC TYPE,One-way ANOVA,38.3065,1.292e-23,eta^2=0.089,True

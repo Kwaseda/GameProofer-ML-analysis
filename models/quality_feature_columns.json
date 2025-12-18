@@ -1,0 +1,15 @@
+{
+  "feature_set": "dims_only",
+  "columns": [
+    "DIAMETER (cm)",
+    "HEIGHT (cm)",
+    "RIM DEPTH (cm)",
+    "RIM WIDTH (cm)",
+    "INSIDE RIM DIAMETER (cm)",
+    "RIM DEPTH / DIAMETER RATION (%)",
+    "rim_width_to_diameter",
+    "rim_depth_to_diameter",
+    "inside_to_outer_diameter",
+    "rim_depth_diameter_pct"
+  ]
+}
