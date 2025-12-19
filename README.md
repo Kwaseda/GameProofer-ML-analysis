@@ -48,7 +48,6 @@ When executed, notebooks write intermediate outputs to `data/processed/` and per
 ```
 GameProofer-sample/
 ├── README.md
-├── PROFESSOR_MEETING_NOTES.md
 ├── docs/
 │   ├── 01_BUSINESS_UNDERSTANDING.md
 │   ├── 02_DATA_UNDERSTANDING.md
@@ -84,7 +83,6 @@ Suggested reading order (short complements to the notebooks):
 - `docs/03_EDA_FINDINGS_AND_ML_FEASIBILITY.md`: Summary of exploratory analysis and feasibility decisions.
 - `docs/04_ML_SOLUTIONS_RESEARCH.md`: Results-driven write-up for the five ML concepts.
 - `docs/05_GAMEPROOFER_ML_FEASIBILITY_ANALYSIS.md`: Proof-of-concept evidence + data requirements for real GameProofer integration.
-- `PROFESSOR_MEETING_NOTES.md`: Internal meeting prep and talking points.
 
 ---
 
@@ -117,4 +115,4 @@ The documentation spells out the throw-level dataset we need (player IDs, releas
 
 ---
 
-*Last updated: 2025-12-15*
+*Last updated: 2025-12-19*
