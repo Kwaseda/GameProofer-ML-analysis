@@ -36,7 +36,6 @@ data/raw/*.zip
 data/processed/*.csv
 data/features/*.csv
 data/raw/*.json
-PROFESSOR_MEETING_NOTES.md
 
 # Keep directory structure but ignore contents
 !data/raw/.gitkeep
